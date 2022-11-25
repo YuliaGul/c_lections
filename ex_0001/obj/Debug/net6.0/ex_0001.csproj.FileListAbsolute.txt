@@ -1,0 +1,15 @@
+/Users/antonkarmalin/Desktop/Product_manager/C#/c_hw/c_lections/ex_0001/bin/Debug/net6.0/ex_0001
+/Users/antonkarmalin/Desktop/Product_manager/C#/c_hw/c_lections/ex_0001/bin/Debug/net6.0/ex_0001.deps.json
+/Users/antonkarmalin/Desktop/Product_manager/C#/c_hw/c_lections/ex_0001/bin/Debug/net6.0/ex_0001.runtimeconfig.json
+/Users/antonkarmalin/Desktop/Product_manager/C#/c_hw/c_lections/ex_0001/bin/Debug/net6.0/ex_0001.dll
+/Users/antonkarmalin/Desktop/Product_manager/C#/c_hw/c_lections/ex_0001/bin/Debug/net6.0/ex_0001.pdb
+/Users/antonkarmalin/Desktop/Product_manager/C#/c_hw/c_lections/ex_0001/obj/Debug/net6.0/ex_0001.csproj.AssemblyReference.cache
+/Users/antonkarmalin/Desktop/Product_manager/C#/c_hw/c_lections/ex_0001/obj/Debug/net6.0/ex_0001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonkarmalin/Desktop/Product_manager/C#/c_hw/c_lections/ex_0001/obj/Debug/net6.0/ex_0001.AssemblyInfoInputs.cache
+/Users/antonkarmalin/Desktop/Product_manager/C#/c_hw/c_lections/ex_0001/obj/Debug/net6.0/ex_0001.AssemblyInfo.cs
+/Users/antonkarmalin/Desktop/Product_manager/C#/c_hw/c_lections/ex_0001/obj/Debug/net6.0/ex_0001.csproj.CoreCompileInputs.cache
+/Users/antonkarmalin/Desktop/Product_manager/C#/c_hw/c_lections/ex_0001/obj/Debug/net6.0/ex_0001.dll
+/Users/antonkarmalin/Desktop/Product_manager/C#/c_hw/c_lections/ex_0001/obj/Debug/net6.0/refint/ex_0001.dll
+/Users/antonkarmalin/Desktop/Product_manager/C#/c_hw/c_lections/ex_0001/obj/Debug/net6.0/ex_0001.pdb
+/Users/antonkarmalin/Desktop/Product_manager/C#/c_hw/c_lections/ex_0001/obj/Debug/net6.0/ex_0001.genruntimeconfig.cache
+/Users/antonkarmalin/Desktop/Product_manager/C#/c_hw/c_lections/ex_0001/obj/Debug/net6.0/ref/ex_0001.dll
